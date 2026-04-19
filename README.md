@@ -2,20 +2,23 @@
 
 🎓 AI & Machine Learning Graduate — Fanshawe College  
 📍 London, Ontario, Canada  
-🥈 2nd Place — AI & ML Capstone 2026  
+🥈 Proud to place 2nd among all AI & ML Capstone projects — Fanshawe College, Class of 2026  
 
 ## 🚀 About Me
-I build intelligent systems using Deep Learning, NLP, and Machine Learning.  
-Passionate about turning data into real-world solutions.
+AI & Machine Learning Graduate with hands-on experience in Deep Learning, NLP, and Computer Vision.
+Passionate about building intelligent systems that turn data into real-world solutions.
+Currently seeking co-op opportunities in AI/ML/Data Science.
 
 ## 🔬 Featured Projects
-- ⚡ [VoltAI](https://github.com/hebooo85/VoltAI-Battery-Health-Prediction) — EV Battery Health Prediction (RF, XGBoost, GRU, BiLSTM)
-- 🌿 Plant Disease Detection — CNN with TensorFlow
-- 🔤 NLP Translation — English to French Seq2Seq LSTM
-- 🛡️ ML Security — Adversarial Attack Detection
+- ⚡ [VoltAI](https://github.com/hebooo85/VoltAI-Battery-Health-Prediction) — EV Battery Health Prediction (RF, XGBoost, GRU, BiLSTM) 🥈 2nd Place
+- 🌿 [Plant Disease Detection](https://github.com/hebooo85/Plant-Disease-Detection-CNN) — CNN with TensorFlow
+- 🔤 [NLP Translation](https://github.com/hebooo85/english-french-neural-machine-translation) — English to French Seq2Seq LSTM
+- 🛡️ [ML Security](https://github.com/hebooo85/ML-security-adversarial-attacks) — Adversarial Attack Detection
+- ⚙️ [Hyperparameter Optimization](https://github.com/hebooo85/Hyperparameter-Optimization-Energy-Efficiency) — Optuna + SHAP
+- 🚗 [Traffic Sign Recognition](https://github.com/hebooo85/gtsrb-traffic-sign-recognition-pytorch) — PyTorch CNN
 
 ## 🛠️ Tech Stack
-Python • TensorFlow • Scikit-learn • XGBoost • SHAP • SQL • Power BI
+Python • TensorFlow • Keras • PyTorch • Scikit-learn • XGBoost • SHAP • HuggingFace • SQL • Power BI • Google Colab
 
 ## 📫 Connect
 www.linkedin.com/in/
