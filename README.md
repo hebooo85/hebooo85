@@ -18,7 +18,9 @@ Passionate about turning data into real-world solutions.
 Python • TensorFlow • Scikit-learn • XGBoost • SHAP • SQL • Power BI
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heba_Alsharif-blue)](https://linkedin.com/in/heba-alsharif)## Hi there 👋
+www.linkedin.com/in/
+heba-alsharif-91130380
+
 
 
 
