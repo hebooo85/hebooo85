@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Heba Alsharif 👋
 
-<!--
-**hebooo85/hebooo85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Machine Learning Graduate — Fanshawe College  
+📍 London, Ontario, Canada  
+🥈 2nd Place — AI & ML Capstone 2026  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I build intelligent systems using Deep Learning, NLP, and Machine Learning.  
+Passionate about turning data into real-world solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Projects
+- ⚡ [VoltAI](https://github.com/hebooo85/VoltAI-Battery-Health-Prediction) — EV Battery Health Prediction (RF, XGBoost, GRU, BiLSTM)
+- 🌿 Plant Disease Detection — CNN with TensorFlow
+- 🔤 NLP Translation — English to French Seq2Seq LSTM
+- 🛡️ ML Security — Adversarial Attack Detection
+
+## 🛠️ Tech Stack
+Python • TensorFlow • Scikit-learn • XGBoost • SHAP • SQL • Power BI
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heba_Alsharif-blue)](https://linkedin.com/in/heba-alsharif)## Hi there 👋
+
+
+
